@@ -2,7 +2,9 @@ Rencana konten ys
 - tutorial github
   * pengenalan
   * ujicoba
-  ^ vue
-  ^ Basic
+  ^ JS
+  ^ Laravel
+  ^ React
 - tutorial laravel
-- arduino
+- tutorial iot
+- Pyton
