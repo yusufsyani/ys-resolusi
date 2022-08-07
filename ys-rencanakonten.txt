@@ -2,5 +2,8 @@ Rencana konten ys
 - tutorial github
   * pengenalan
   * ujicoba
+  ^ JS
+  ^ Laravel
 - tutorial laravel
 - tutorial iot
+- Pyton
