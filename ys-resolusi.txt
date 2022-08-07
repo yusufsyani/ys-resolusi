@@ -3,3 +3,4 @@ YS Resolusi
 - Belajar iot
 - Gabung laravel dengan kontroller
 - Belajar Android
+- Belajar konsep implementasi laravel
