@@ -1,5 +1,5 @@
 YS Resolusi
-- Fokus belajar laravel
 - Belajar rasberrypi
 - Belajar iot
 - Gabung laravel dengan kontroller
+- Belajar Android
