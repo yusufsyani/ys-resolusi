@@ -1,0 +1,4 @@
+YS Resolusi
+- Fokus belajar laravel
+- Belajar rasberrypi
+- Belajar iot
